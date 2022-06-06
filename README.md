@@ -1,3 +1,3 @@
-# Somar
-Programa para somar números em C.
+# Calculator
+Programa para calcular números em C.
 
