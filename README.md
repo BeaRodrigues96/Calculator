@@ -1,3 +1,3 @@
 # Calculator
-Programa para calcular números em C.
+Programa para fazer calculos de números em C.
 
